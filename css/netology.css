@@ -482,3 +482,11 @@ address {
 p.topped{
   margin-top: -1.2em;
 }
+
+.no-list li::before {
+  content: "" !important;
+}
+
+.slide li + li {
+  margin-top: 0 !important;
+}
