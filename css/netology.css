@@ -73,7 +73,7 @@ h2:not(.shout):before {
 
 /* Стили для обложки презентации */
 #cover {
-  background: url(../i/logo.svg) no-repeat 10% 10%;
+  background: url(../i/logo.svg) no-repeat 15% 10%;
   background-size: 30%;
   background-color: #00acf2;
   position: relative;
@@ -165,7 +165,7 @@ h2:not(.shout):before {
 
 .contacts li {
   display: inline-block;
-  width: 30%;
+  width: 40%;
 
 }
 
@@ -191,7 +191,6 @@ dl.highlights {
   max-width: 25%;
   padding: 0 15px;
   text-align: center;
-  float: left;
   box-sizing: border-box;
 }
 
